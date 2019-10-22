@@ -5,3 +5,6 @@ Browser Finger Printing for bot detection
 Create a directory called "Data" in the root of this project; place our data files inside of it.
 
 According to the .gitignore file, everything in the data directory will be ignored.
+
+# Original
+https://github.com/astarr8181/fp_bots
